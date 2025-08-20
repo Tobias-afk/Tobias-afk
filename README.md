@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na área de manutenção mecânica
 - 🌱 Sou formado em técnico mecatrônica e estou cursando graduação de Análise de Sistemas e Software
-- ⚡ Tenho objetivo em ingressar na área de programação, especificamente em desenvolvimento WEB
+- ⚡ Tenho objetivo em ingressar na área de programação, especificamente em desenvolvedor de SQL 
 - 🤖 Busco qualquer oportunidade que faça eu ingressar na área de tecnologia
 <div><a href="https://github.com/Tobias-afk"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-afk&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tobias-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 <div style="display: inline_block"><br>
